@@ -5,7 +5,7 @@
 ### 📫 How to reach me ?
 - @mail adress => bugraskl@gmail.com
 - @mywebsite => https://bugra.work
-- @myfirm => https://rgsteknoloji.com.tr
+- @myfirm => https://yeditek.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bugraskl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bugraskl) 
