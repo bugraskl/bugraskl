@@ -70,10 +70,5 @@ I build **industrial vision systems, anomaly detection pipelines and production-
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=bugraskl&theme=dark&hide_border=true&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=bugraskl&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bugraskl&theme=dark&hide_border=true&layout=compact)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=bugraskl&icon=0&color=0)](https://visitcount.itsvg.in)
