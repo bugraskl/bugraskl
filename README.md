@@ -1,74 +1,40 @@
-# 👋 Hi, I’m Buğra
+# Buğra Şıkel
 
-Full-stack developer with strong expertise in **Python, OpenCV and AI-driven systems**.  
-I build **industrial vision systems, anomaly detection pipelines and production-ready web backends**.
+**Full-stack developer · Founder of Hano · Bursa, Türkiye**
 
----
+I build production web applications, fintech dashboards and computer vision systems for manufacturing, from the database to the interface and from the camera to the production line.
 
-## 🚀 What I Do
-- 💻 Full-stack Web Development (PHP, JS, MySQL, Laravel)
-- 🤖 Artificial Intelligence & Computer Vision
-- 🎯 Anomaly Detection Systems
-- 📷 OpenCV & Industrial Camera Integrations
-- 🔍 Image Processing & Defect Detection
-- ⚡ Backend Optimization & Automation
-- 🌐 API Development & System Integrations
+Currently building **Hano**, an AI-powered family budgeting app (React Native · Supabase).
+
+[![Website](https://img.shields.io/badge/bugra.work-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://bugra.work)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bugraskl)
+[![Email](https://img.shields.io/badge/bugraskl@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bugraskl@gmail.com)
 
 ---
 
-## 🧠 Expertise Areas
-- ✅ Computer Vision & Deep Learning
-- ✅ ROI-based Image Analysis
-- ✅ Autoencoder & Anomaly Detection
-- ✅ PLC & Machine Vision Integration
-- ✅ High-performance backend architectures
+### What I work on
 
----
+- **Web platforms** — business applications with PHP/Laravel and TypeScript (Next.js, Fastify), REST APIs, MySQL and PostgreSQL
+- **Fintech & data** — data pipelines and dashboards built on market and central bank data
+- **Computer vision for manufacturing** — OpenCV-based inspection, anomaly detection, industrial camera and PLC integration
+- **Automation & AI** — LLM-powered tools, n8n workflows and desktop utilities
 
-## 🛠 Tech Stack
+### Featured projects
 
-### 🧬 AI & Image Processing
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| [**tcmb-reserve-terminal**](https://github.com/bugraskl/tcmb-reserve-terminal) | Tracks Turkish central bank reserves, swaps, liquidity and gold via EVDS and flags intervention signals, with an AI commentary layer | Next.js · Fastify · PostgreSQL |
+| [**randevu-sistemi**](https://github.com/bugraskl/randevu-sistemi) | Appointment, client and payment management for psychologists and clinics, installable as a PWA with SMS notifications | PHP · MySQL |
+| [**telegram-finance-tracker**](https://github.com/bugraskl/telegram-finance-tracker) | Log income and expenses in natural language via Telegram, track them on a web dashboard | Node.js · n8n · Docker |
+| [**file-categorizer**](https://github.com/bugraskl/file-categorizer) | Cross-platform desktop app that organizes files with deterministic rules, no AI | Electron · Python |
+| [**wordpress-post-generator**](https://github.com/bugraskl/wordpress-post-generator) | Generates and publishes WordPress posts with Gemini, ChatGPT or Grok | Python · Flask |
+| [**cv2-threshold-visualizer**](https://github.com/bugraskl/cv2-threshold-visualizer) | Interactive tool for tuning OpenCV thresholding parameters in real time | Python · OpenCV |
 
-### 🌍 Backend & Web
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
+### Tech stack
 
-### 🎨 Frontend & Design
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap)
-
-### 🛠 DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
----
-
-## 📫 Contact
-- 📧 Mail → bugraskl@gmail.com
-- 🌐 Website → https://bugra.work
-- 🏢 Company → https://yeditek.com
-
----
-
-## 🌐 Social
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bugraskl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bugraskl)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bugraskl&theme=dark&hide_border=true&layout=compact)
-
+**Languages** — Python · TypeScript · JavaScript · PHP · SQL  
+**Backend** — Laravel · Node.js · Fastify · REST APIs  
+**Frontend & mobile** — Next.js · React · React Native (Expo)  
+**Data** — MySQL · PostgreSQL · Supabase  
+**Vision & AI** — OpenCV · PyTorch · TensorFlow · LLM APIs  
+**Tooling** — Docker · Linux · Cloudflare · n8n
