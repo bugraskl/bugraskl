@@ -31,6 +31,17 @@ Currently building **Hano**, an AI-powered family budgeting app (React Native ·
 | [**wordpress-post-generator**](https://github.com/bugraskl/wordpress-post-generator) | Generates and publishes WordPress posts with Gemini, ChatGPT or Grok | Python · Flask |
 | [**cv2-threshold-visualizer**](https://github.com/bugraskl/cv2-threshold-visualizer) | Interactive tool for tuning OpenCV thresholding parameters in real time | Python · OpenCV |
 
+### n8n workflow projects
+
+Production workflows from my self-hosted n8n, cleaned up and open-sourced as importable JSON with setup guides.
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**n8n-grounded-blog-writer**](https://github.com/bugraskl/n8n-grounded-blog-writer) | Weekly WordPress posts on topics people actually search for: trend signals, Google-grounded research and a number check that blocks invented statistics | n8n · Gemini · WordPress REST |
+| [**n8n-instagram-autopilot**](https://github.com/bugraskl/n8n-instagram-autopilot) | Turns a folder of food photos into designed Instagram posts, stories and a weekly AI reel; a decision model gates every caption before it goes live | n8n · Gemini · Veo · ffmpeg |
+| [**n8n-instagram-reels-publisher**](https://github.com/bugraskl/n8n-instagram-reels-publisher) | Publishes Instagram Reels and video Stories from n8n with resumable upload, which works where fetching the video from a webhook URL fails | n8n · Instagram Graph API |
+| [**n8n-gmail-ai-labeler**](https://github.com/bugraskl/n8n-gmail-ai-labeler) | Hourly Gmail labeling with a typed decision model: one decision per email, no broken JSON, fractions of a cent | n8n · Gmail API · OpenRouter |
+
 ### Tech stack
 
 **Languages** — Python · TypeScript · JavaScript · PHP · SQL  
