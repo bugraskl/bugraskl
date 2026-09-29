@@ -44,7 +44,7 @@ Production workflows from my self-hosted n8n, cleaned up and open-sourced as imp
 
 ### Tech stack
 
-**Languages** — Python · TypeScript · JavaScript · PHP · SQL  
+**Languages** — Python · TypeScript · JavaScript · PHP · Go · SQL  
 **Backend** — Laravel · Node.js · Fastify · REST APIs  
 **Frontend & mobile** — Next.js · React · React Native (Expo)  
 **Data** — MySQL · PostgreSQL · Supabase  
