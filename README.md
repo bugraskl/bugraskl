@@ -23,6 +23,7 @@ Currently building **Hano**, an AI-powered family budgeting app (React Native ·
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**eye-tracker**](https://github.com/bugraskl/eye-tracker) | Look at a monitor and your cursor and keyboard focus follow. Webcam-based switching for multi-monitor setups, fully offline on Windows, macOS and Linux | Python · OpenCV · Qt |
 | [**tcmb-reserve-terminal**](https://github.com/bugraskl/tcmb-reserve-terminal) | Tracks Turkish central bank reserves, swaps, liquidity and gold via EVDS and flags intervention signals, with an AI commentary layer | Next.js · Fastify · PostgreSQL |
 | [**randevu-sistemi**](https://github.com/bugraskl/randevu-sistemi) | Appointment, client and payment management for psychologists and clinics, installable as a PWA with SMS notifications | PHP · MySQL |
 | [**telegram-finance-tracker**](https://github.com/bugraskl/telegram-finance-tracker) | Log income and expenses in natural language via Telegram, track them on a web dashboard | Node.js · n8n · Docker |
