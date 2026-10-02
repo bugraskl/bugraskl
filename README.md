@@ -23,14 +23,9 @@ Currently building **Hano**, an AI-powered family budgeting app (React Native ·
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Hano**](https://hano.pro) | AI-powered family budgeting app: log spending by typing, voice or receipt photo, shared household budgets, goals and next-month planning | React Native (Expo) · Supabase · LLM APIs |
 | [**eye-tracker**](https://github.com/bugraskl/eye-tracker) | Look at a monitor and your cursor and keyboard focus follow. Webcam-based switching for multi-monitor setups, fully offline on Windows, macOS and Linux | Python · OpenCV · Qt |
-| [**tcmb-reserve-terminal**](https://github.com/bugraskl/tcmb-reserve-terminal) | Tracks Turkish central bank reserves, swaps, liquidity and gold via EVDS and flags intervention signals, with an AI commentary layer | Next.js · Fastify · PostgreSQL |
-| [**randevu-sistemi**](https://github.com/bugraskl/randevu-sistemi) | Appointment, client and payment management for psychologists and clinics, installable as a PWA with SMS notifications | PHP · MySQL |
-| [**telegram-finance-tracker**](https://github.com/bugraskl/telegram-finance-tracker) | Log income and expenses in natural language via Telegram, track them on a web dashboard | Node.js · n8n · Docker |
-| [**sweepkit**](https://github.com/bugraskl/sweepkit) | Honest disk cleanup for Windows and Linux: shows what is safe to delete and what it costs, deletes nothing until you confirm, no telemetry | Go · Wails |
-| [**file-categorizer**](https://github.com/bugraskl/file-categorizer) | Cross-platform desktop app that organizes files with deterministic rules, no AI | Electron · Python |
-| [**wordpress-post-generator**](https://github.com/bugraskl/wordpress-post-generator) | Generates and publishes WordPress posts with Gemini, ChatGPT or Grok | Python · Flask |
-| [**cv2-threshold-visualizer**](https://github.com/bugraskl/cv2-threshold-visualizer) | Interactive tool for tuning OpenCV thresholding parameters in real time | Python · OpenCV |
+| [**habit-guard**](https://github.com/bugraskl/habit-guard) | Catches nail biting, mustache or hair pulling and face touching through your webcam and nudges you to stop. Private, offline and light on the CPU | Python · OpenCV · PySide6 |
 
 ### n8n workflow projects
 
