@@ -10,7 +10,7 @@ Currently building **Hano**, an AI-powered family budgeting app (React Native ·
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bugraskl)
 [![Email](https://img.shields.io/badge/bugraskl@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bugraskl@gmail.com)
 
-[![Showreel '26: fifteen seconds on what I build](assets/showreel.gif)](https://bugra.work/#showreel)
+[![Showreel '26: fifteen seconds on what I build](assets/showreel.webp)](https://bugra.work/#showreel)
 
 <sub>Showreel '26, built in React with Remotion. [Watch it with sound on bugra.work →](https://bugra.work/#showreel)</sub>
 
